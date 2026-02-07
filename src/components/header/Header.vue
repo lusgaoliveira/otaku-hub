@@ -37,10 +37,10 @@ export default {
 <style scoped>
 header {
   display: flex;
-  background-color: #036203;
   padding: 2rem;
   width: 75rem;
   margin: 0 auto;
+  margin-top: 2vh;
   border-radius: 10rem;
 }
 
@@ -48,8 +48,8 @@ nav ul {
   display: flex;
   list-style: none;
   gap: 2rem;
-  margin: 0;
-  padding: 0;
+  margin: 10;
+  padding: 12;
 }
 
 nav a {
